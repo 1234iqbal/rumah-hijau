@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import Input from "./Input";
+import Register from "./Register";
 export default class index extends Component {
   render() {
     return (
       <div>
-        <Input />
+        <Register />
       </div>
     );
   }
